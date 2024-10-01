@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("Imagem\ do\ WhatsApp\ de\ 2024-09-30\ à\(s\)\ 21.03.37_7ea40df8.jpg");
+    background-size: cover; 
+    background-position: center; 
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9); 
+    width: 80%;
+    max-width: 800px; 
+    margin: 20px auto; 
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+
+.titulo1 {
+    text-align: center;
+    font-family: Arial, sans-serif; 
+}
+
+.subtitulo{
+    text-align: center;
+    font-family: Arial, sans-serif; 
+}
+
+p {
+    font-size: 25px;
+    font-family: Arial, sans-serif; 
+}
